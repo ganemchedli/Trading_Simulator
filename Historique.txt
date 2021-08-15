@@ -1,0 +1,1644 @@
+Historique de Simulation	ID de trader:  TRRR
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+Historique de Simulation	ID de trader:  YYYY
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	3000
+Historique de Simulation	ID de trader:  AZA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	51111
+Historique de Simulation	ID de trader:  EEEE
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+Historique de Simulation	ID de trader:  1AA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	2000
+Historique de Simulation	ID de trader:  BBB
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	4000
+Historique de Simulation	ID de trader:  444T
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	6000
+
+
+Historique de Simulation	ID de trader:  ZZZZ
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	3
+
+
+Historique de Simulation	ID de trader:  WWWW
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  WWW
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  CCCC
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  WWWWWWWW
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	2
+Montant de depart:	2000
+Resultat finale:	-10.2
+
+
+Historique de Simulation	ID de trader:  SSSS
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	3000
+Resultat finale:	-13.6
+
+
+Historique de Simulation	ID de trader:  HHHHH
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+Resultat finale:	-10.2
+
+
+Historique de Simulation	ID de trader:  SQQSQ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	4000
+Resultat finale:	-13.6
+
+
+Historique de Simulation	ID de trader:  EZAEAZ
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  WWCCWXC
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	3000
+Resultat finale:	-8.36
+
+
+Historique de Simulation	ID de trader:  LM3ALEM
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  ALEATO
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  ALEA2
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  EZZDIN
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	20000
+
+
+Historique de Simulation	ID de trader:  CWCW
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	3
+
+
+Historique de Simulation	ID de trader:  DSQDQ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  GHANEM
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	40000
+
+
+Historique de Simulation	ID de trader:  AA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  AAAA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  LIJJU
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  EEEE
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  NBNBNB
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	50000
+
+
+Historique de Simulation	ID de trader:  LLMMM
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	6000
+
+
+Historique de Simulation	ID de trader:  XZA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	30000
+
+
+Historique de Simulation	ID de trader:  BHTD
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	30000
+
+
+Historique de Simulation	ID de trader:  JHJH
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	30000
+
+
+Historique de Simulation	ID de trader:  DQSDA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  OOOO
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	5000
+
+
+Historique de Simulation	ID de trader:  EZ
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  XWXW
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  AA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	5
+Montant de depart:	1000
+
+
+Historique de Simulation	ID de trader:  ASDC
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	2100
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  1212
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  SDS
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	20000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  2323
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  EZE
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  2
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	1
+Montant de depart:	2344
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  2313
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	5
+Montant de depart:	2000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  211
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  QWWQ
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	5
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  LOOO
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  QSQSQSAZAZ
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  VBBBB
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	6
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  VCVX
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	1.21213e+006
+
+
+Historique de Simulation	ID de trader:  AZER
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  DQSQ
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  WXXWWX
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  LLLL
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	6
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  DQSQQSD
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  AEE
+
+Date de depart	3/5/2011
+Nombre de jour de simulation	4
+Montant de depart:	6000
+
+
+Historique de Simulation	ID de trader:  3123
+
+Date de depart	5/6/2012
+Nombre de jour de simulation	5
+Montant de depart:	5000
+
+
+Historique de Simulation	ID de trader:  TTATA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  WWW
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  PPPP
+
+Date de depart	1/5/2011
+Nombre de jour de simulation	3
+Montant de depart:	6000
+
+
+Historique de Simulation	ID de trader:  KPPKP
+
+Date de depart	4/5/2011
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  YUYUY
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-8.36
+
+
+Historique de Simulation	ID de trader:  SALMA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	5000
+Resultat finale:	-8.36
+
+
+Historique de Simulation	ID de trader:  MPLP
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	2000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  IJI
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  NNN
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  MQL
+
+Date de depart	2/4/2011
+Nombre de jour de simulation	3
+Montant de depart:	10000
+
+
+Historique de Simulation	ID de trader:  FEEZ
+
+Date de depart	4/5/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  LLLL
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  QDS
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  LM3ALEM
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  BVBF
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-64.18
+
+
+Historique de Simulation	ID de trader:  OKK
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  OJJN
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  XW
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  NBVB
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  RET3I
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	5000
+
+
+Historique de Simulation	ID de trader:  ZOMBA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	6
+Montant de depart:	3
+
+
+Historique de Simulation	ID de trader:  GHNAM
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3400
+
+
+Historique de Simulation	ID de trader:  FDE
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  RTY
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-8.36
+
+
+Historique de Simulation	ID de trader:  213
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  EZA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  VVF
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  XWXQ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	40000
+
+
+Historique de Simulation	ID de trader:  JNBH
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  VS
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	40000
+
+
+Historique de Simulation	ID de trader:  PIKL
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  TRF
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  QSQ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3
+
+
+Historique de Simulation	ID de trader:  KOIK
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  2LP
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  2
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	33
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  DAD
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	2200
+
+
+Historique de Simulation	ID de trader:  GGG
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  SQAZ
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	4
+Montant de depart:	2
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  TTTTTTT
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	30000
+
+
+Historique de Simulation	ID de trader:  AZER
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-17
+
+
+Historique de Simulation	ID de trader:  ASQ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+Resultat finale:	-611
+
+
+Historique de Simulation	ID de trader:  OKIJ
+
+Date de depart	4/5/2011
+Nombre de jour de simulation	3
+Montant de depart:	40000
+
+
+Historique de Simulation	ID de trader:  AADD
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4200
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  JUH
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	2
+Montant de depart:	21000
+
+
+Historique de Simulation	ID de trader:  ASQXC
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  XSA
+
+Date de depart	1/4/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  CSA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-92.44
+
+
+Historique de Simulation	ID de trader:  GTR
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-244.56
+
+
+Historique de Simulation	ID de trader:  TRE
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	30000
+Resultat finale:	2.8
+
+
+Historique de Simulation	ID de trader:  LOK
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-69.33
+
+
+Historique de Simulation	ID de trader:  KKIJ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	20000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  QWA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  TFC
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  CXC
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  QQSD
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  TFE
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  SSSS
+
+Date de depart	5/2/2011
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  SQD
+
+Date de depart	5/2/2010
+Nombre de jour de simulation	3
+Montant de depart:	34000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  CVD
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	50000
+
+
+Historique de Simulation	ID de trader:  ASD
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	2
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  XSQA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  WCQA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	2
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  TGVD
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3231
+
+
+Historique de Simulation	ID de trader:  KIJ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2100
+
+
+Historique de Simulation	ID de trader:  XQA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	-238.22
+
+
+Historique de Simulation	ID de trader:  WXQ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+Resultat finale:	0.39
+
+
+Historique de Simulation	ID de trader:  QA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  WWQ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  OKIJ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2000
+
+
+Historique de Simulation	ID de trader:  ASZ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  XSA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  YUT
+
+Date de depart	5/3/2011
+Nombre de jour de simulation	3
+Montant de depart:	2400
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  CXC
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  S
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	2300
+
+
+Historique de Simulation	ID de trader:  FE
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  GRE
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	3400
+Resultat finale:	-709.73
+
+
+Historique de Simulation	ID de trader:  QWQA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0
+
+
+Historique de Simulation	ID de trader:  QWA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  EZS
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  3CE
+
+Date de depart	5/3/2013
+Nombre de jour de simulation	3
+Montant de depart:	5000
+Resultat finale:	-586.44	-11.7288
+
+
+Historique de Simulation	ID de trader:  RED
+
+Date de depart	4/2/2010
+Nombre de jour de simulation	3
+Montant de depart:	3400
+
+
+Historique de Simulation	ID de trader:  QXA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  EASA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	5000
+
+
+Historique de Simulation	ID de trader:  ZAZ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	30000
+
+
+Historique de Simulation	ID de trader:  SQWX
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+Resultat finale:	0	0%
+
+
+Historique de Simulation	ID de trader:  EEZ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	3
+Montant de depart:	3000
+
+
+Historique de Simulation	ID de trader:  ALGOTRADE
+
+Date de depart	5/5/2010
+Nombre de jour de simulation	4
+Montant de depart:	40000
+
+
+Historique de Simulation	ID de trader:  OKIJ
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	3000
+Resultat finale:	0	0%
+
+
+Historique de Simulation	ID de trader:  QA
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	6
+Montant de depart:	4000
+
+
+Historique de Simulation	ID de trader:  ALGO
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	3000
+Resultat finale:	0	0%
+
+
+Historique de Simulation	ID de trader:  OKI
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	3000
+Resultat finale:	0	0%
+
+
+Historique de Simulation	ID de trader:  ASD
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	2000
+Resultat finale:	0	0%
+
+
+Historique de Simulation	ID de trader:  POKI
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	4
+Montant de depart:	4000
+Resultat finale:	-1288.21	-32.2052%
+
+
+Historique de Simulation	ID de trader:  ALGO2
+
+Date de depart	4/1/2010
+Nombre de jour de simulation	5
+Montant de depart:	4000
+Resultat finale:	3765.05	-5.87375%
+
+
+Historique de Simulation	ID de trader:  EEZ
+
+Date de depart	1111/1111/1111
+Nombre de jour de simulation	32
+Montant de depart:	2
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  ASXA
+Nombre de jour de simulation:	5
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  EAZE
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  EAEA
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	2074.24	-30.8587%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/2/2011
+
+ID de trader:  GHANEM
+Nombre de jour de simulation:	3
+Montant de depart:	5000
+Resultat finale:	5000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  DAZ
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	2677.36	-10.7547%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  ARA
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  AZE
+Nombre de jour de simulation:	3
+Montant de depart:	2000
+Resultat finale:	2004.08	0.204001%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  ASWA
+Nombre de jour de simulation:	5
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/4/2011
+
+ID de trader:  OKI
+Nombre de jour de simulation:	4
+Montant de depart:	4000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2011
+
+ID de trader:  EZAS
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/4/2010
+
+ID de trader:  QWA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  XWQA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  ZSQA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  PLOI
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  EZA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	9/1/2010
+
+ID de trader:  ASQA
+Nombre de jour de simulation:	3
+Montant de depart:	4000
+------------------------------------------
+
+Historique de Simulation	Date de depart	14/1/2010
+
+ID de trader:  DEZ
+Nombre de jour de simulation:	3
+Montant de depart:	40000
+Resultat finale:	39883.5	-0.291125%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	3/2/2011
+
+ID de trader:  RFDE
+Nombre de jour de simulation:	3
+Montant de depart:	30000
+Resultat finale:	30000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	10/1/2010
+
+ID de trader:  ESA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	2743.86	-8.538%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/2/2010
+
+ID de trader:  REF
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  RFED
+Nombre de jour de simulation:	3
+Montant de depart:	4000
+Resultat finale:	3002.34	-24.9415%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  EAZE
+Nombre de jour de simulation:	3
+Montant de depart:	4000
+Resultat finale:	4000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  OPO
+Nombre de jour de simulation:	7
+Montant de depart:	30000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  2OLK
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	2824.02	-5.866%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	3/2/2012
+
+ID de trader:  31D
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	2882.4	-3.92%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2011
+
+ID de trader:  FEDZ
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  AQWA
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	3/1/2010
+
+ID de trader:  ZSA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  ASA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	2834.72	-5.50933%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  ESA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  EZA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  SAQ
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  aqsz
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  EAD
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  FDE
+Nombre de jour de simulation:	3
+Montant de depart:	300
+Resultat finale:	256.32	-14.56%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  EDSA
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	1639.08	-45.364%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  LKIJ
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	2802.9	-6.57%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/2/2010
+
+ID de trader:  TFR
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/2/2010
+
+ID de trader:  RDE
+Nombre de jour de simulation:	4
+Montant de depart:	40000
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/2/2010
+
+ID de trader:  RFE
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  RED
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	2711.88	-9.604%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/1/2011
+
+ID de trader:  FED
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/6/2010
+
+ID de trader:  SZA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	2974.52	-0.849333%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/2/2011
+
+ID de trader:  SAZ
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/2/2011
+
+ID de trader:  SAZ
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/2/2011
+
+ID de trader:  SAZ
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/2/2011
+
+ID de trader:  SAZ
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  CSX
+Nombre de jour de simulation:	4
+Montant de depart:	4000
+Resultat finale:	3604.12	-9.897%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/1/2010
+
+ID de trader:  ZEAD
+Nombre de jour de simulation:	3
+Montant de depart:	4000
+Resultat finale:	3647.2	-8.82%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  DEA
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/2/2011
+
+ID de trader:  LM3ALEM
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  DZS
+Nombre de jour de simulation:	6
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  DEZTA5TEF
+Nombre de jour de simulation:	5
+Montant de depart:	5000
+Resultat finale:	4530.87	-9.3826%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/2/2012
+
+ID de trader:  DEZ
+Nombre de jour de simulation:	5
+Montant de depart:	3000
+Resultat finale:	2434.62	-18.846%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  3
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/6/2010
+
+ID de trader:  HGB
+Nombre de jour de simulation:	3
+Montant de depart:	3000
+Resultat finale:	2863.04	-4.56533%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/2/2012
+
+ID de trader:  FAA
+Nombre de jour de simulation:	4
+Montant de depart:	40000
+Resultat finale:	38500	-3.74997%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/2/2010
+
+ID de trader:  FAZA
+Nombre de jour de simulation:	4
+Montant de depart:	30000
+------------------------------------------
+
+Historique de Simulation	Date de depart	5/1/2010
+
+ID de trader:  RFE
+Nombre de jour de simulation:	4
+Montant de depart:	3000
+Resultat finale:	3000.45	0.0149997%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/2/2011
+
+ID de trader:  RED
+Nombre de jour de simulation:	4
+Montant de depart:	5000
+Resultat finale:	4906.08	-1.8784%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/3/2014
+
+ID de trader:  YHT
+Nombre de jour de simulation:	7
+Montant de depart:	3000
+Resultat finale:	3000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  ALGO
+Nombre de jour de simulation:	5
+Montant de depart:	5000
+Resultat finale:	4901.6	-1.968%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	6/3/2011
+
+ID de trader:  HUMAIN
+Nombre de jour de simulation:	6
+Montant de depart:	5000
+Resultat finale:	5000	0%
+--------------------------------------------
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  ALGO
+Nombre de jour de simulation:	6
+Montant de depart:	10000
+------------------------------------------
+
+Historique de Simulation	Date de depart	4/1/2010
+
+ID de trader:  ALEA
+Nombre de jour de simulation:	20
+Montant de depart:	10000
+Resultat finale:	9045.39	-9.5461%
+--------------------------------------------
